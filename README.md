@@ -28,6 +28,7 @@
 |C6250349|  [Riix halkan](https://github.com/suad71258-blip/Suad-omar)|
 |C6250249|  [Riix halkan](https://github.com/Xanafi/qoobey)|
 |C6250302| [Riix halkan](https://github.com/zakiboy5303-hub/Qoobey)|
+|C6250261| [Riix halkan](https://github.com/amina-hassan-dil/Qoobeey-Restaurant)|
 
 
 
