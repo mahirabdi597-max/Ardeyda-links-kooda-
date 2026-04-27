@@ -29,6 +29,9 @@
 |C6250249|  [Riix halkan](https://github.com/Xanafi/qoobey)|
 |C6250302| [Riix halkan](https://github.com/zakiboy5303-hub/Qoobey)|
 |C6250261| [Riix halkan](https://github.com/amina-hassan-dil/Qoobeey-Restaurant)|
+|C6250282| [Riix halkan](https://github.com/mustafupdullahiomar-ops/Mustepha)|
+|C6250250|  [Riix halkan](https://github.com/wadanigadhabtaa94-hash/Qoobey)|
+|C6250325|  [Riix halkan](https://github.com/osmaaninho-svg/Omaan/commits?author=osmaaninho-svg)|
 
 
 
