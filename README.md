@@ -22,8 +22,12 @@
 |C6250313| [Riix halkan](https://github.com/salmasalad178-stack/Salmasalad66)|
 |C6250258|  [Riix halkan](https://github.com/saacidmaxamed546-cell/Qobey)|
 |C6250328|  [Riix halkan](https://github.com/yaxyec305/Qoobey_restaurant)|
-
-
+|C6250305|  [Riix halkan](https://github.com/Sabirin6/saabiriinabdi-css)|
+|c6250299|  [Riix halkan](https://github.com/wizzibra744-ops/Ibra.project/commits?author=wizzibra744-ops)|
+|C6250246|  [Riix halkan](https://github.com/qaliabukar5-png/.html-project)|
+|C6250349|  [Riix halkan](https://github.com/suad71258-blip/Suad-omar)|
+|C6250249|  [Riix halkan](https://github.com/Xanafi/qoobey)|
+|C6250302| [Riix halkan](https://github.com/zakiboy5303-hub/Qoobey)|
 
 
 
