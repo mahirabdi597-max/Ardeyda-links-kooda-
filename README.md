@@ -32,7 +32,7 @@
 |C6250282| [Riix halkan](https://github.com/mustafupdullahiomar-ops/Mustepha)|
 |C6250250|  [Riix halkan](https://github.com/wadanigadhabtaa94-hash/Qoobey)|
 |C6250325|  [Riix halkan](https://github.com/osmaaninho-svg/Omaan/commits?author=osmaaninho-svg)|
-
+|C6250018|. [Riix halkan](https://github.com/cici74799-crypto/university.project)|
 
 
 
